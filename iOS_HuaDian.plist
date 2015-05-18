@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>items</key>
+        <array>
+            <dict>
+                <key>assets</key>
+                <array>
+                    <dict>
+                        <key>kind</key>
+                        <string>software-package</string>
+                        <key>url</key>
+                        <string>https://pan.baidu.com/disk/home?fr=ibaidu#path=%252F%25E6%2596%25B0%25E5%25BB%25BA%25E6%2596%2587%25E4%25BB%25B6%25E5%25A4%25B9%252FGroupProducts/iOS_HuaDian.ipa</string>
+                    </dict>
+                </array>
+                <key>metadata</key>
+                <dict>
+                    <key>bundle-identifier</key>
+                    <string>com.3drich.test</string>
+                    <key>bundle-version</key>
+                    <string>1.00</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>廉洁文化</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
